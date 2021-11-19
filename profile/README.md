@@ -2,7 +2,7 @@
 
 AIS JUMP Thailand Hackathon
 
-![](../images/fb_present.png)
+<img src="../images/fb_present.png" height=400 />
 
 We aim at reducing the pollutions from Food Waste.
 
