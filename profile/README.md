@@ -1,6 +1,6 @@
 # Food Busters
 
-![](https://github.com/Food-Busters/.github/blob/main/images/redsomwua.webp)
+![](https://github.com/Food-Busters/.github/blob/main/images/fb-banner.webp)
 
 We aim at reducing the pollutions from Food Waste.
 
@@ -8,8 +8,10 @@ We aim at reducing the pollutions from Food Waste.
 
 [Food Busters Youtube Channel](https://www.youtube.com/channel/UC_RxtBPbaHon60Gs1Wo5W-Q)
 
-<img src="https://github.com/Food-Busters/.github/blob/main/images/redsomwua.webp" width=128>
-<img src="https://github.com/Food-Busters/.github/blob/main/images/redsomwua.webp" width=128>
-<img src="https://github.com/Food-Busters/.github/blob/main/images/redsomwua.webp" width=128>
-<img src="https://github.com/Food-Busters/.github/blob/main/images/redsomwua.webp" width=128>
-<img src="https://github.com/Food-Busters/.github/blob/main/images/redsomwua.webp" width=128>
+<p align="center">
+<img src="https://github.com/Food-Busters/.github/blob/main/images/redsomwua.webp" width=128 />
+<img src="https://github.com/Food-Busters/.github/blob/main/images/redsomwua.webp" width=128 />
+<img src="https://github.com/Food-Busters/.github/blob/main/images/redsomwua.webp" width=128 />
+<img src="https://github.com/Food-Busters/.github/blob/main/images/redsomwua.webp" width=128 />
+<img src="https://github.com/Food-Busters/.github/blob/main/images/redsomwua.webp" width=128 />
+</p>
